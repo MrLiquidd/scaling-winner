@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a83353d-cd2a-4bca-a5d7-ba2dbc935ec3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oD1gPii7MOicFFxJvKUSGoNRi4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/assets/images" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Вячечлав.DESKTOP-4RMV6CI\PhpstormProjects\trancscriptswords\client\src\assets\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Вячечлав.DESKTOP-4RMV6CI\PhpstormProjects\trancscriptswords\client\src\assets\images" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a83353d-cd2a-4bca-a5d7-ba2dbc935ec3" name="Default Changelist" comment="" />
+      <created>1612806476824</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612806476824</updated>
+      <workItem from="1612806482806" duration="415000" />
+      <workItem from="1612814906135" duration="5187000" />
+      <workItem from="1613043635469" duration="3658000" />
+      <workItem from="1613048951218" duration="467000" />
+      <workItem from="1613049547844" duration="1220000" />
+      <workItem from="1613206994234" duration="120000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612969844895">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="361" y="69" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.821@0.0.1536.821" timestamp="1612969844895" />
+    <state x="478" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612877836351">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="478" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.821@0.0.1536.821" timestamp="1612877836351" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1612875486038">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.821@0.0.1536.821" timestamp="1612875486038" />
+    <state width="189" height="457" key="HiddenNamespacesPopup" timestamp="1612970171950">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state width="189" height="457" key="HiddenNamespacesPopup/0.0.1536.821@0.0.1536.821" timestamp="1612970171950" />
+    <state x="425" y="186" key="run.anything.popup" timestamp="1613050412230">
+      <screen x="0" y="0" width="1536" height="821" />
+    </state>
+    <state x="425" y="186" key="run.anything.popup/0.0.1536.821@0.0.1536.821" timestamp="1613050412230" />
+  </component>
+</project>
